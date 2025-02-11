@@ -1,9 +1,7 @@
 # README
 
 ## Integrantes da Equipe
-- **Nome do integrante 1**
-- **Nome do integrante 2**
-- ...
+- ** Antonio Irandilson
 
 ## Projeto
 O projeto em que estamos trabalhando é o **"Memos"**, um sistema para gerenciamento de notas e informações.
