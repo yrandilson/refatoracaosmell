@@ -8,7 +8,7 @@ O projeto trabalhado foi  o **"Memos"**, um sistema para gerenciamento de notas 
 
 ## Code Smells Refatorados
 
-Durante esta atividade, foi realizado a refatoração de um **code smell específico** no projeto. O code smell que identificado e corrigido foi:
+Durante esta atividade, foi realizado a refatoração de um **code smell específico** no projeto. O code smell identificado e corrigido foi:
 
 - **Code Smell Refatorado: Hardcoded Values**  
   **Local:** Linha 17 do arquivo `CreateIdentityProviderDialog.tsx`.
